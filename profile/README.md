@@ -4,7 +4,7 @@
 
 AIRewards connects ethical advertisers with developers across their daily AI tools through lightweight, non-intrusive, 1-line text-only sponsored messages. 
 
-[Website](https://www.airewards.tech/) · [Documentation](https://www.airewards.tech/docs) · [How It Works](https://www.airewards.tech/how-it-works) · [Contact Founder](mailto:founder@airewards.tech)
+[Website](https://www.airewards.tech/) · [Documentation](https://www.airewards.tech/docs) · [How It Works](https://www.airewards.tech/how-it-works) · [About Company](https://www.airewards.tech/about)
 
 ---
 
@@ -46,8 +46,13 @@ npx -y @airewards/cli-wrapper setup --api-key "air_dev_..."
 
 ## 🏢 About AIRewards
 
-AIRewards is an independent, bootstrapped startup founded in 2026 by [Md Millat Hosen (@codermillat)](https://github.com/codermillat).
+AIRewards is an independent, bootstrapped startup founded in 2026 by [Md Millat Hosen (@codermillat)](https://millat.is-a.dev/).
 
 - **Official Website:** [https://www.airewards.tech](https://www.airewards.tech)
-- **Direct Founder Contact:** [`founder@airewards.tech`](mailto:founder@airewards.tech)
-- **Bug Reports & Issues:** Open an issue in any of our public client repositories above.
+- **Company Inquiries:** [`founder@airewards.tech`](mailto:founder@airewards.tech)
+- **User & Developer Support:** [`support@airewards.tech`](mailto:support@airewards.tech)
+- **Company LinkedIn:** [linkedin.com/company/airewards](https://www.linkedin.com/company/airewards/)
+- **Founder Personal Site:** [millat.is-a.dev](https://millat.is-a.dev/)
+- **Founder LinkedIn:** [linkedin.com/in/codermillat](https://www.linkedin.com/in/codermillat/)
+- **Founder X (Twitter):** [x.com/codermillat](https://x.com/codermillat)
+- **Product Hunt:** [producthunt.com/@codermillat](https://www.producthunt.com/@codermillat)
